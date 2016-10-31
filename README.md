@@ -1,7 +1,7 @@
 # Coding Dojo MEAN / NICE
 Welcome son
 
-Our [course agenda](https://youtube.com). Keep up to date with it, if you wanna stay healthy.
+Our [course agenda](https://github.com/dallaspythondojo/nice/blob/master/Schedule.pdf). Keep up to date with it, if you wanna stay healthy.
 
 ## Setup
  1. Fork this repo to your github account
